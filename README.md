@@ -9,7 +9,8 @@ Jihwan Yoon¹, Sangbeom Han¹, Jaeseok Oh¹, Minsik Lee¹²†
 
 **Video:** https://iclr.cc/virtual/2025/poster/28059
 
-**TL;DR:** We propose SplineGS, representing trajectories in 3D-GS using non-uniform rational B-splines, to reconstruct dynamic scenes. The trajectories are combined based on a multi-resolution hash table and an MLP for spatial smoothness.
+## TL;DR
+We propose **SplineGS**, representing trajectories in 3D-GS using **non-uniform rational B-splines**, to reconstruct dynamic scenes. The trajectories are combined based on **a multi-resolution hash table** and **an MLP** for spatial smoothness.
 <img width="1282" height="724" alt="image" src="https://github.com/user-attachments/assets/1b3ee320-30dc-4ea9-84ed-2f8607b4d3cf" />
 
 ## Citation

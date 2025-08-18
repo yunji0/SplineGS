@@ -4,8 +4,8 @@ Jihwan Yoon¹, Sangbeom Han¹, Jaeseok Oh¹, Minsik Lee¹²†
 ¹ Department of Electrical and Electronic Engineering, Hanyang University  
 ² School of Electrical Engineering, Hanyang University ERICA  
 
-**Paper** https://openreview.net/forum?id=tMG6btjBfd
+**Paper:** https://openreview.net/forum?id=tMG6btjBfd
 
-**Video** https://iclr.cc/virtual/2025/poster/28059
+**Video:** https://iclr.cc/virtual/2025/poster/28059
 
 <img width="1316" height="726" alt="image" src="https://github.com/user-attachments/assets/9f83b83a-04d8-4da6-b4ac-b16d9d17ed65" />

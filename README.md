@@ -1,4 +1,6 @@
 # [ICLR, 2025] SplineGS: Learning Smooth Gaussian Splatting for Consistent Novel View Synthesis
+**Authors:** Jihwan Yoon, Sangbeom Han, Jaeseok Oh, Minsik Lee
+
 https://openreview.net/forum?id=tMG6btjBfd
 
 https://iclr.cc/virtual/2025/poster/28059

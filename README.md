@@ -9,4 +9,4 @@ Jihwan Yoon¹, Sangbeom Han¹, Jaeseok Oh¹, Minsik Lee¹²†
 
 **Video:** https://iclr.cc/virtual/2025/poster/28059
 
-<img width="1316" height="726" alt="image" src="https://github.com/user-attachments/assets/9f83b83a-04d8-4da6-b4ac-b16d9d17ed65" />
+<img width="1282" height="724" alt="image" src="https://github.com/user-attachments/assets/1b3ee320-30dc-4ea9-84ed-2f8607b4d3cf" />

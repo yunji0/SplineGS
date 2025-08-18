@@ -1,4 +1,5 @@
-# [ICLR, 2025] SplineGS: Learning Smooth Gaussian Splatting for Consistent Novel View Synthesis
+# [ICLR, 2025] SPLINEGS: LEARNING SMOOTH TRAJECTORIES IN GAUSSIAN SPLATTING FOR DYNAMIC SCENE RECONSTRUCTION
+
 **Authors**  
 Jihwan Yoon¹, Sangbeom Han¹, Jaeseok Oh¹, Minsik Lee¹²†  
 ¹ Department of Electrical and Electronic Engineering, Hanyang University  

@@ -46,7 +46,7 @@ def training(cfg):
 
         Ll1 = l1_loss(image, gt_image)
         loss = (1.0 - cfg["lambda_dssim"]) * Ll1 + cfg["lambda_dssim"] * (1.0 - ssim(image, gt_image))
-        loss = loss #+ regulaizer(cfg,gaussians,deform_model,viewpoint_cam.fid, render_pkg)
+        loss = loss + regulaizer(cfg,gaussians,deform_model,viewpoint_cam.fid, render_pkg)
 
         loss.backward()
 

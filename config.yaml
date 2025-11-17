@@ -1,0 +1,43 @@
+source_path: "./data/D-NeRF/hellwarrior"
+data_device: "cuda"
+images: "images"
+resolution: -1
+bound: 1
+white_background: false
+eval: true
+iterations: 80000
+evaluation_step: 80
+lambda_dssim: 0.2
+warmup: 3000
+
+base_resolution: 8
+n_features_per_level: 4
+per_level_scale: 2
+n_levels: 16
+num_layer: 4
+hidden_dim: 128
+log2_hashmap_size: 19
+
+control_point_rate: 4
+num_degree: 3
+number_of_weights: 128
+
+deform_lr_iter: 40000
+densification_interval: 100
+densify_from_iter: 500
+densify_grad_threshold: 0.00015
+densify_until_iter: 15000
+lr_lambda: 0.99
+opacity_lr: 0.05
+opacity_reset_interval: 3000
+position_lr_delay_mult: 0.01
+position_lr_final: 0.0000016
+position_lr_init: 0.00016
+position_lr_max_steps: 30000
+weight_decay: "1e-7"
+weight_lr: 0.001
+rotation_lr: 0.001
+scaling_lr: 0.005
+curve_lr: 0.001
+feature_lr: 0.0025
+opacity_lambda: "1e-9"

@@ -4,7 +4,6 @@ import gaussian_render
 from utils.loss_utils import l1_loss, psnr, ssim
 from tqdm import tqdm
 from dataloader import GS_dataset
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 def training(cfg):
     # torch.autograd.set_detect_anomaly(True)
